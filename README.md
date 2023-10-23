@@ -1,5 +1,4 @@
-![117921831-c3d32c80-b334-11eb-8bab-a423ac34272a](https://i.gifer.com/3AyY.gif)
-
+[![MasterHead](https://i.gifer.com/3AyY.gif)](https://linktr.ee/mrdsa04)
 <h1 align="center">Howdy! I'm Dewan Shakil Akhtar</h1>
 <h3 align="center">Student at Alliance University | GDSC Chief & Cloud Lead | Freelance Full Stack Developer</h3>
 <img src="https://i.gifer.com/3AyY.gif" alt="Me Does This lol" width="500"/>
