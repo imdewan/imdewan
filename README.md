@@ -1,6 +1,6 @@
 <h1 align="center">Howdy! I'm Dewan Shakil Akhtar</h1>
 <h3 align="center">Student at Alliance University | GDSC Chief & Cloud Lead | Freelance Full Stack Developer</h3>
-<img src="https://i.gifer.com/3AyY.gif" alt="Me Does This lol" width="500">
+<img src="https://i.gifer.com/3AyY.gif" alt="Me Does This lol" width="500"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdewan&label=Profile%20views&color=0e75b6&style=flat" alt="imdewan" /> </p>
 
