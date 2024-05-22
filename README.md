@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdewan&show_icons=true&locale=en&layout=compact" alt="imdewan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imdewan&show_icons=true&locale=en" alt="imdewan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdewan&" alt="imdewan" /></p>
