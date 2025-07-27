@@ -1,5 +1,5 @@
 <h1 align="center">Howdy! I'm Dewan Shakil Akhtar</h1>
-<h3 align="center">CEO & Founder @ Ledref.com | Ex GDSC Chief & Cloud Lead | Freelance Full Stack Developer</h3>
+<h3 align="center">CEO & Founder @ Ledref.com & Coldpen.io | Ex GDSC Chief & Cloud Lead | Freelance Full Stack Developer</h3>
 <img src="https://github.com/imdewan/imdewan/blob/main/3AyY.gif?raw=true" alt="Me Does This lol" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdewan&label=Profile%20views&color=0e75b6&style=flat" alt="imdewan" /> </p>
