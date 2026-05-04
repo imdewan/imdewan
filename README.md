@@ -1,4 +1,4 @@
-<img src="https://github.com/imdewan/imdewan/blob/main/3AyY.gif?raw=true" width="100%"/>
+<img src="https://github.com/imdewan/imdewan/blob/main/vibing.gif?raw=true" width="100%"/>
 
 <br/>
 
