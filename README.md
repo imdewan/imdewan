@@ -1,84 +1,129 @@
-<h1 align="center">hey, i'm dewan 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Member of Technical Staff @ Stellon Labs (YC S25) <br/>
-building developer-focused apps, SDKs & real-world products
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/imdewan">GitHub</a> •
-  <a href="https://linkedin.com/in/mrdsa04">LinkedIn</a> •
-  <a href="https://soyfin.com">Soyfin</a>
-</p>
+```
+  ██████╗ ███████╗██╗    ██╗ █████╗ ███╗   ██╗
+  ██╔══██╗██╔════╝██║    ██║██╔══██╗████╗  ██║
+  ██║  ██║█████╗  ██║ █╗ ██║███████║██╔██╗ ██║
+  ██║  ██║██╔══╝  ██║███╗██║██╔══██║██║╚██╗██║
+  ██████╔╝███████╗╚███╔███╔╝██║  ██║██║ ╚████║
+  ╚═════╝ ╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-<p align="center">
-  <img src="https://github.com/imdewan/imdewan/blob/main/3AyY.gif?raw=true" width="85%" />
-</p>
+### Member of Technical Staff @ [Stellon Labs](https://stellonlabs.com) · YC S25
+**Building on-device AI** · React Native · ML Research · TTS Systems
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdsa04)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrdsa04)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/imdewan)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/imdewan)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mr-dsa04)
 
-## 🚀 about me
+![Profile Views](https://komarev.com/ghpvc/?username=imdewan&style=flat-square&color=1a1a2e&label=PROFILE+VIEWS)
 
-i’m a full-stack developer who likes building things people actually use  
-
-currently at Stellon Labs (Kitten ML), working on developer adoption + product-facing engineering  
-
-i’ve worked across mobile, web, backend and infra — and enjoy taking things from 0 → scalable  
-
----
-
-## 🧠 what i do
-
-- build dev tools & SDKs  
-- ship mobile + web apps end-to-end  
-- design scalable backend systems  
-- focus on product + UX, not just code  
+</div>
 
 ---
 
-## ⚡ featured work
+## `whoami`
 
-### 🟢 soyfin
-ai-powered budgeting app with voice-based insights  
-
-### 🟣 developer tools & SDKs
-react native integrations, local-first systems  
-
-### 🔵 other projects
-- payment platforms  
-- solar analytics dashboard  
-- gaming tournament system  
-- scalable backend infra  
-
----
-
-## 🛠️ tech i use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,go,firebase,aws,linux,docker,postgres,mongodb" />
-</p>
+```yaml
+name: Dewan Shakil Akhtar
+role: Member of Technical Staff
+company: Stellon Labs (YC S25) — San Francisco, CA
+location: Bengaluru, Karnataka, India
+focus:
+  - On-device & edge AI systems
+  - Text-to-speech (TTS) research & engineering
+  - React Native SDK development
+  - Full-stack product engineering
+currently_building:
+  - Kitten TTS · React Native SDK (first RN implementation)
+  - Soyfin · AI-powered personal finance app
+previously:
+  - GDSC Chief & Google Cloud Lead
+  - Freelance Full Stack Developer (3+ yrs)
+```
 
 ---
 
-## 📊 stats
+## `~/projects`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdewan&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imdewan&layout=compact&hide_border=true" height="150"/>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🔊 Kitten TTS · RN SDK
+First-ever React Native implementation of Kitten TTS. Integrated espeak-ng phonemizer for on-device inference on both iOS & Android — zero cloud dependency.
+
+`React Native` `C++` `ML` `TTS` `iOS` `Android`
+
+</td>
+<td width="50%">
+
+### 💸 Soyfin
+AI-powered budgeting app. Tracks spending, spots patterns, and gives you financial clarity without the spreadsheet chaos.
+
+`React Native` `AI` `Finance` `Mobile`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 reach out
+## `~/stack`
 
-<p align="center">
-  <a href="https://twitter.com/mrdsa04">
-    <img src="https://img.shields.io/twitter/follow/mrdsa04?style=for-the-badge&logo=twitter" />
-  </a>
-</p>
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frameworks & Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Cloud & DevOps**
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-<p align="center">
-  <i>build fast. ship faster.</i>
-</p>
+## `~/stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=imdewan&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=ffffff&icon_color=4f8ef7&text_color=aaaaaa&border_color=222222&hide_border=false&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdewan&layout=compact&theme=dark&bg_color=0f0f0f&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=false" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building things that run at the edge.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+
+</div>
