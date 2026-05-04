@@ -20,7 +20,6 @@
 
 <br/>
 
-
 ---
 
 ## `whoami`
@@ -58,7 +57,7 @@ First-ever React Native implementation of Kitten TTS. Integrated espeak-ng phone
 </td>
 <td width="50%">
 
-### 💸 Soyfin
+### 💸 [Soyfin](https://soyfin.com)
 AI-powered budgeting app. Tracks spending, spots patterns, and gives you financial clarity without the spreadsheet chaos.
 
 `React Native` `AI` `Finance` `Mobile`
@@ -97,11 +96,13 @@ AI-powered budgeting app. Tracks spending, spots patterns, and gives you financi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Databases**
+**Databases & Backend-as-a-Service**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 
 ---
 
@@ -109,8 +110,9 @@ AI-powered budgeting app. Tracks spending, spots patterns, and gives you financi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=imdewan&show_icons=true&theme=dark&bg_color=0f0f0f&title_color=ffffff&icon_color=4f8ef7&text_color=aaaaaa&border_color=222222&hide_border=false&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdewan&layout=compact&theme=dark&bg_color=0f0f0f&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=false" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=imdewan&theme=dark&hide_border=false&background=0f0f0f&border=222222&ring=4f8ef7&fire=4f8ef7&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=imdewan&layout=compact&theme=dark&bg_color=0f0f0f&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
