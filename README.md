@@ -1,7 +1,5 @@
 <img src="https://github.com/imdewan/imdewan/blob/main/vibing.gif?raw=true" width="100%"/>
 
-<br/>
-
 <div align="center">
 
 # Dewan Shakil Akhtar
