@@ -6,7 +6,7 @@
 
 # Dewan Shakil Akhtar
 
-Full Stack Developer · On-device AI · React Native
+### Member of Technical Staff @ [Stellon Labs](https://stellonlabs.com) · YC S25
 
 [![Website](https://img.shields.io/badge/mrdsa.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://mrdsa.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdsa04)
@@ -20,19 +20,6 @@ Full Stack Developer · On-device AI · React Native
 
 <br/>
 
----
-### Member of Technical Staff @ [Stellon Labs](https://stellonlabs.com) · YC S25
-**Building on-device AI** · React Native · ML Research · TTS Systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdsa04)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrdsa04)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/imdewan)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/imdewan)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mr-dsa04)
-
-![Profile Views](https://komarev.com/ghpvc/?username=imdewan&style=flat-square&color=1a1a2e&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
@@ -42,14 +29,13 @@ Full Stack Developer · On-device AI · React Native
 name: Dewan Shakil Akhtar
 role: Member of Technical Staff
 company: Stellon Labs (YC S25) — San Francisco, CA
-location: Bengaluru, Karnataka, India
+location: All over the place =)
 focus:
   - On-device & edge AI systems
-  - Text-to-speech (TTS) research & engineering
   - React Native SDK development
   - Full-stack product engineering
 currently_building:
-  - Kitten TTS · React Native SDK (first RN implementation)
+  - Kitten TTS · Smallest TTS Model & SDKs
   - Soyfin · AI-powered personal finance app
 previously:
   - GDSC Chief & Google Cloud Lead
