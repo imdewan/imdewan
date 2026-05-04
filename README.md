@@ -112,7 +112,7 @@ AI-powered budgeting app. Tracks spending, spots patterns, and gives you financi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imdewan&theme=dark&hide_border=false&background=0f0f0f&border=222222&ring=4f8ef7&fire=4f8ef7&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=imdewan&layout=compact&theme=dark&bg_color=0f0f0f&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imdewan&theme=github_dark)](https://github.com/imdewan)
 
 </div>
 
@@ -120,7 +120,7 @@ AI-powered budgeting app. Tracks spending, spots patterns, and gives you financi
 
 <div align="center">
 
-*Building things that run at the edge.*
+*it works on my device. literally. that's the whole point.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
