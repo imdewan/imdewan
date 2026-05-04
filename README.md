@@ -50,7 +50,7 @@ previously:
 <td width="50%">
 
 ### 🔊 Kitten TTS · RN SDK
-First-ever React Native implementation of Kitten TTS. Integrated espeak-ng phonemizer for on-device inference on both iOS & Android — zero cloud dependency.
+First-ever React Native implementation of Kitten TTS. Integrated proper phonemizer for on-device inference on both iOS & Android — zero cloud dependency.
 
 `React Native` `C++` `ML` `TTS` `iOS` `Android`
 
